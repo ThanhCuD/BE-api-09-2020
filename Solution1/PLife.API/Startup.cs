@@ -28,7 +28,7 @@ namespace PLife.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<MyContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("EdmiDbContext")));
+                    options.UseSqlServer(Configuration.GetConnectionString("EdmiDbContext")));
             services.AddControllers();
         }
 

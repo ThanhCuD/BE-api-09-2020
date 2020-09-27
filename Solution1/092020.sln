@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PLife.API", "PLife.API\PLife.API.csproj", "{ECE4D47A-9E83-465B-BE55-978879EAB4AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plife.Data", "Plife.Data\Plife.Data.csproj", "{6F17DFB6-96CF-470D-B2BA-29C98A82820C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLife.Data", "Plife.Data\PLife.Data.csproj", "{6F17DFB6-96CF-470D-B2BA-29C98A82820C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
